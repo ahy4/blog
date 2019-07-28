@@ -1,21 +1,89 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: ブログを始めるかもしれない
+date: "2019-07-28T15:24:58.929Z"
+description: "ブログをするモチベーションと、今後自分がやりたいこと"
 ---
 
-This is my first post on my new fake blog! How exciting!
+# モチベーション
 
-I'm sure I'll write a lot more interesting things in the future.
+* gatsbyjs で遊んでみたかった (重要)
+* なんか公開するコンテンツをちょっと書き始めたかった
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+# 黒歴史への警戒はどうするか
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+* 黒歴史になる可能性は高いと思うけど、メモということで割り切ろう
+* 昔やってたブログは [ここ](http://grooyv.hateblo.jp/archive/2015)
+* 初期はあまりコンテンツの質は考えず、hackmd の代わりレベルで使用する
+    * (あるいは、hackmdで書いてたことをするレベルでもいい)
 
-![Chinese Salty Egg](./salty_egg.jpg)
+# 今興味のあること
+
+* Testing
+* Architecture
+* デザインパターン
+* Vim
+* TypeScript
+* React
+* 外部モジュールでのPolyfill
+* Splatoon 2
+
+# ささっと勉強したいこと
+
+* RxJS
+* Ansible
+* FP
+
+# 正直興味がないこと (しかし勉強はしたほうがいい)
+
+* OS
+* Network
+* DB
+* DOM の Document Stream
+
+# 本
+
+2019/07/29
+
+買いためたやつが消化できたら次を読もう
+
+Splagtoonにはガンガン時間が使えてるので、今後は月初は本を読んで、月末はSplatoonをしたい (計測が有利なため)
+
+## 買ったけど読まない
+
+* ベーシック圏論
+    * 難しすぎる
+* エンジニアの知的生産術
+    * パラパラ見た感じだと、何を言いたいのかわからない
+* キャノ鳥
+    * 漫画を読む気力がでない
+    * トレパクで炎上して、次の話が出ないことはわかりきっているから
+* マイクロサービスアーキテクチャ
+    * 現状、優先度が低い
+
+## 読む
+
+* エンジニアリング組織論への招待
+    * ちゃんと読まないといけない気がするが、割と時間がかかりそう
+* Clean Architecture
+    * レイヤ化アーキテクチャに話が近そうなので、これは割と読みやすそう。
+* データベース実践入門
+    * なんとなくでDDLを書いてるので、そうならないようにちゃんと理解したい
+
+## WIP
+
+* Node.js デザインパターン
+* すごいH本
+    * ファンクターとかモノイドとか勉強してない
+    * (+)はSemiring、(/)はEuclidianRingで定義されてるのね
+    * 一回ためしにサーバー書いてみてもいいかもね
+        * 勉強にしかならないけど Elm に手を出す・・・？
+
+## 読んだ
+
+* サーバがわかる本
+    * 初心者向けだが、必要十分なことは書いてある気がする
+* システムはなぜダウンするのか
+    * 目次近辺に書いてある図が一番大事なのでは
+* ネット広告ハンドブック
+    * エンジニア目線だと、正直よくまとまってるとは思えない
+
